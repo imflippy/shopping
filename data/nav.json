@@ -1,0 +1,27 @@
+[
+    {
+        "id" : 1,
+        "link" : "index.html",
+        "naziv" : "Home"
+    },
+    {
+        "id" : 2,
+        "link" : "category.html",
+        "naziv" : "Product"
+    },
+    {
+        "id" : 3,
+        "link" : "contact.html",
+        "naziv" : "Contact us"
+    },
+    {
+        "id" : 4,
+        "link" : "page-sidebar.html",
+        "naziv" : "Author"
+    },
+    {
+        "id" : 5,
+        "link" : "cart.html",
+        "naziv" : "My Cart"
+    }
+]

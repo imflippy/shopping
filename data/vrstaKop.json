@@ -1,0 +1,19 @@
+[
+{
+    "id" : 1,
+    "naziv" : "Adidas"
+},
+{
+    "id" : 2,
+    "naziv" : "Nike"
+},
+{
+    "id" : 3,
+    "naziv" : "Puma"
+},
+{
+    "id" : 4,
+    "naziv" : "New Balance"
+}
+
+]

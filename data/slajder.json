@@ -1,0 +1,14 @@
+[
+    {
+        "src" : "images/slajder1.jpg",
+        "alt" : "Slika terena sa kopackama1"
+    },
+    {
+        "src" : "images/slajder2.jpg",
+        "alt" : "Slika terena sa kopackama2"
+    },
+    {
+        "src" : "images/slajder3.jpg",
+        "alt" : "Slika terena sa kopackama3"
+    }
+]

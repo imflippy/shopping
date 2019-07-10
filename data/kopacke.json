@@ -1,0 +1,226 @@
+[
+    {
+        "id" : 1,
+        "naziv" : "adidas X 18+ SG Football Boots",
+        "slika" : "images/kop1.jpg",
+        "cena" : {
+            "cenaStara" : "$260",
+            "cenaNova" : 160,
+            "sale" : "on-sale"
+        },
+        "markaKop" : {
+            "id" : 1,
+            "naziv" : "adidas"
+        },
+        "opis" : "Sculpted for speed, dynamic and streamlined, be fast and more competitive than ever when lacing up in a pair of X 18+ SG Football Boots from adidas.",
+        "dostava" : true
+    },
+    {
+        "id" : 2,
+        "naziv" : "adidas X 18.1 AG Football Boots",
+        "slika" : "images/kop2.jpg",
+        "cena" : {
+            "cenaStara" : "",
+            "cenaNova" : 160,
+            "sale" : ""
+        },
+        "markaKop" : {
+            "id" : 1,
+            "naziv" : "adidas"
+        },
+        "opis" : "Sculpted for speed, dynamic and streamlined, be fast and more competitive than ever when lacing up in a pair of X 18.1 aG Football Boots from adidas.",
+        "dostava" : false
+    },
+    {
+        "id" : 3,
+        "naziv" : "adidas X 15.1 FG/AG Football Boots",
+        "slika" : "images/kop3.jpg",
+        "cena" : {
+            "cenaStara" : "$170",
+            "cenaNova" : 80,
+            "sale" : "on-sale"
+        },
+        "markaKop" : {
+            "id" : 1,
+            "naziv" : "adidas"
+        },
+        "opis" : "You're the one creating chances out of nothing and leaving opponents second guessing so change the game with the revolutionary adidas X 15.1 FG/AG Football Boots.",
+        "dostava" : true
+    },
+    {
+        "id" : 4,
+        "naziv" : "adidas X 16.1 Leather FG Football Boots",
+        "slika" : "images/kop4.jpg",
+        "cena" : {
+            "cenaStara" : "$170",
+            "cenaNova" : 60,
+            "sale" : "on-sale"
+        },
+        "markaKop" : {
+            "id" : 1,
+            "naziv" : "adidas"
+        },       
+        "opis" : "Be the game changer and destroy your opponents in these X 16.1 FG Football Boots from adidas.",
+        "dostava" : false
+    },
+    {
+        "id" : 5,
+        "naziv" : "Nike Mercurial Vapor XII Elite Neymar FG Football Boots",
+        "slika" : "images/kop5.jpg",
+        "cena" : {
+            "cenaStara" : "$300",
+            "cenaNova" : 230,
+            "sale" : "on-sale"
+        },
+        "markaKop" : {
+            "id" : 2,
+            "naziv" : "nike"
+        },
+        "opis" : "The iconic Mercurial, re-designed for the modern day superstar, these Nike Mercurial Vapor XII Elite Neymar FG Football Boots have been built for speed and performance.",
+        "dostava" : true
+    },
+    {
+        "id" : 6,
+        "naziv" : "Nike Mercurial Superfly VI Elite FG Football Boots",
+        "slika" : "images/kop6.jpg",
+        "cena" : {
+            "cenaStara" : "",
+            "cenaNova" : 230,
+            "sale" : ""
+        },
+        "markaKop" : {
+            "id" : 2,
+            "naziv" : "nike"
+        },
+        "opis" : "Swaggering onto the scene with some sleek style! The iconic Mercurial, re-designed for the modern day superstar.",
+        "dostava" : true
+    },
+    {
+        "id" : 7,
+        "naziv" : "Nike Mercurial Superfly VI Elite SG-Pro AC Football Boots",
+        "slika" : "images/kop7.jpg",
+        "cena" : {
+            "cenaStara" : "",
+            "cenaNova" : 170,
+            "sale" : ""
+        },
+        "markaKop" : {
+            "id" : 2,
+            "naziv" : "nike"
+        },        "opis" : "These Nike Mercurial Superfly VI Elite SG-Pro AC Football Boots have been built for speed and performance. ",
+        "dostava" : true
+    },
+    {
+        "id" : 8,
+        "naziv" : "Nike Hypervenom Phantom III Pro D-Fit AG Pro Football Boots",
+        "slika" : "images/kop8.jpg",
+        "cena" : {
+            "cenaStara" : "",
+            "cenaNova" : 100,
+            "sale" : ""
+        },
+        "markaKop" : {
+            "id" : 2,
+            "naziv" : "nike"
+        },
+        "opis" : "Dominate the game with deadly finishing and rapid movement when you lace up in a pair of Nike Hypervenom Phantom III Pro D-Fit AG Football Boots. ",
+        "dostava" : true
+    },
+    {
+        "id" : 9,
+        "naziv" : "Puma Future 19.1 Netfit Mx SG Football Boots",
+        "slika" : "images/kop9.jpg",
+        "cena" : {
+            "cenaStara" : "",
+            "cenaNova" : 180,
+            "sale" : ""
+        },
+        "markaKop" : {
+            "id" : 3,
+            "naziv" : "puma"
+        },
+        "opis" : "The new 19.1 boots are inspired by the gaming and arcade culture inspiring on-pitch bursts of energy and creativity.",
+        "dostava" : true
+    },
+    {
+        "id" : 10,
+        "naziv" : "Puma One 19.1 CC FG/AG Football Boots",
+        "slika" : "images/kop10.jpg",
+        "cena" : {
+            "cenaStara" : "",
+            "cenaNova" : 160,
+            "sale" : ""
+        },
+        "markaKop" : {
+            "id" : 3,
+            "naziv" : "puma"
+        },
+        "opis" : "If you're ready to take your game to the next level these Puma One 19.1 CC FG/AG Football Boots in Bleu Azur and Red Blast are the one's for you.",
+        "dostava" : false
+    },
+    {
+        "id" : 11,
+        "naziv" : "Puma One 1 Leather Mx SG Football Boots",
+        "slika" : "images/kop11.jpg",
+        "cena" : {
+            "cenaStara" : "$190",
+            "cenaNova" : 114,
+            "sale" : "on-sale"
+        },
+        "markaKop" : {
+            "id" : 3,
+            "naziv" : "puma"
+        },
+        "opis" : "Are you ready to tackle the three F's? If so, these Puma One Leather SG Football Boots are the one's for you.",
+        "dostava" : false
+    },
+    {
+        "id" : 12,
+        "naziv" : "New Balance Furon V5 Pro FG Leather Football Boots",
+        "slika" : "images/kop12.jpg",
+        "cena" : {
+            "cenaStara" : "",
+            "cenaNova" : 180,
+            "sale" : ""
+        },
+        "markaKop" : {
+            "id" : 4,
+            "naziv" : "new balance"
+        },
+        "opis" : "If you're an unstoppable attacker then these New Balance Furon V5 Pro FG Leather Football Boots are the right tools for your trade. ",
+        "dostava" : false
+    },
+    {
+        "id" : 13,
+        "naziv" : "New Balance Tekela Magique FG Football Boots",
+        "slika" : "images/kop13.jpg",
+        "cena" : {
+            "cenaStara" : "$60",
+            "cenaNova" : 40,
+            "sale" : "on-sale"
+        },
+        "markaKop" : {
+            "id" : 4,
+            "naziv" : "new balance"
+        },
+        "opis" : "If your fearless creativity is the biggest part of your game then these New Balance Tekela Magique FG Football Boots are the right tools for your trade. ",
+        "dostava" : false
+    },
+    {
+        "id" : 14,
+        "naziv" : "New Balance Tekela Pro Leather FG Football Boots",
+        "slika" : "images/kop14.jpg",
+        "cena" : {
+            "cenaStara" : "$180",
+            "cenaNova" : 70,
+            "sale" : "on-sale"
+        },
+        "markaKop" : {
+            "id" : 4,
+            "naziv" : "new balance"
+        },
+        "opis" : "If speed is a main part of how you change games then look no further than the New Balance Tekela Pro Leather FG Football Boots. ",
+        "dostava" : true
+    }
+
+]
